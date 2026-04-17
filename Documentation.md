@@ -5,11 +5,11 @@ The Bank Interest Calculator is a simple C++ console application that calculates
 ## 2. Problem Statement
 Bank customers need a program to calculate the total amount payable or receivable based on principal, rate of interest, and time. The program should provide options for both Simple and Compound Interest.
 
-3. Objective
+## 3. Objective
 To create a menu-driven program for calculating bank interest.
 To demonstrate the use of loops, switch-case, and mathematical operations in C++.
 To provide a simple real-life application of programming.
-4. Approach / Method Used
+## 4. Approach / Method Used
 Display a menu with options for Simple Interest, Compound Interest, and Exit.
 Take user input: Principal, Rate, Time.
 Perform calculations using formulas:
@@ -17,7 +17,7 @@ Simple Interest (SI): SI = (P × R × T) / 100
 Compound Interest (CI): CI = P * (1 + R/100)^T - P
 Display the calculated interest and total amount.
 Repeat until user chooses Exit.
-5. Algorithm
+## 5. Algorithm
 Start
 Display menu
 Input choice
@@ -26,16 +26,16 @@ If choice is 2 → calculate CI
 Display result
 Repeat menu
 End
-6. Intuition
+## 6. Intuition
 The program follows the standard mathematical formulas for interest calculation. It uses loops and switch-case to create an interactive menu.
 
-7. Time Complexity
+## 7. Time Complexity
 Simple operations → O(1)
 Menu loop → O(n) where n = number of times user interacts
 8. Space Complexity
 Uses constant extra memory for variables → O(1)
 Vector/arrays not used → minimal memory
-9. Sample Input/Output
+## 9. Sample Input/Output
 ===== Bank Interest Calculator =====
 
 Simple Interest
