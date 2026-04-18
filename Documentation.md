@@ -50,6 +50,6 @@ Step-1: Start Step-2: Declare variables P → Principal amount R → Rate of int
 
 ## Flowchart
 <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/132dfcbb-2965-4910-a785-f1ff4cd35cfb" />
-## 10. Conclusion
+10. Conclusion
 
 This program provides a simple, interactive way to calculate bank interest. It helps beginners understand menu-driven programming, arithmetic operations, and real-life application of programming concept
