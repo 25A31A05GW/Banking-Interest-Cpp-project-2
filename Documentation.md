@@ -6,7 +6,7 @@ The Bank Interest Calculator is a simple C++ console application that calculates
 Bank customers need a program to calculate the total amount payable or receivable based on principal, rate of interest, and time. The program should provide options for both Simple and Compound Interest.
 
 ## 3. Objective
-To create a menu-driven program for calculating bank interest.
+To create a menu-driven program for calculating bank interest. 
 To demonstrate the use of loops, switch-case, and mathematical operations in C++.
 To provide a simple real-life application of programming.
 ## 4. Approach / Method Used
