@@ -3,7 +3,7 @@
 A simple C++ program to calculate Simple and Compound Interest for a given principal, rate, and time. This is a menu-driven program that simulates a real-life banking scenario.
 
 ## Features
-Calculate Simple Interest\n
+Calculate Simple Interest
 Calculate Compound Interest
 Input principal, rate, and time in years
 Display total amount including interest
